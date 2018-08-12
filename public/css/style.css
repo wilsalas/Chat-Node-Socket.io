@@ -1,0 +1,17 @@
+body{
+  background: #6c757d;
+}
+
+.chatmessage{
+  overflow-y: scroll;
+  overflow-x: hidden;
+  height: 200px;
+}
+
+li{
+  list-style: none;
+}
+
+.info-message{
+  display: none;
+}
